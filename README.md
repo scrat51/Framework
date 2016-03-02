@@ -1,7 +1,4 @@
 
-
-xsssniper is an handy xss discovery tool with mass scanning functionalities.
-
 ##Usage:
 
     Usage: xsssniper.py [options]
