@@ -1,5 +1,9 @@
 How to use it ?
 
+Requirements ?
+
+Python 2.6 or 2.7
+
 Help menu
 ---------
 
@@ -27,9 +31,7 @@ earchFor=foobar"
  of tags, no filtering)
 
 scan results: possible vulnerabilities found
-```
 
-```
 $ python xss_scanner_advanced.py -u "http://public-firing-range.appspot.com/address/location.has
 h/replace"
 
@@ -41,7 +43,6 @@ h/replace"
  (x) no usable GET/POST parameters found
 
 scan results: possible vulnerabilities found
-```
 
-Requirements
-Python 2.6 or 2.7
+
+
