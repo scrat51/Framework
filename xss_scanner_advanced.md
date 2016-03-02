@@ -1,13 +1,10 @@
 How to use it ?
--------------
 
 Requirements ?
-------------
 
 Python 2.6 or 2.7
 
 Help menu
----------
 
 python script -h
 
