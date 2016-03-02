@@ -1,6 +1,8 @@
 ##First Framework : Web 
 
-##Usage for xssniper
+## Hunting the Xss Flaw 
+
+##How to use xssniper
 
     Usage: xsssniper.py [options]
 
