@@ -1,5 +1,6 @@
+##First Framework : Web 
 
-##Usage:
+##Usage for xssniper
 
     Usage: xsssniper.py [options]
 
@@ -21,7 +22,7 @@
       --dom                 basic heuristic to detect dom xss
 
 
-## Examples:
+## Examples can be helpfull:
 
 Scanning a single url with GET params:
 
